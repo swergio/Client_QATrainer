@@ -1,0 +1,2 @@
+numpy
+git+git://github.com/swergio/SwergioUtilityPackage@master#egg=SwergioUtility
