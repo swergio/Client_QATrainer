@@ -7,4 +7,3 @@ COPY run.py /usr/src/app
 COPY QATrainer.py /usr/src/app
 COPY ./QAGenerators /usr/src/app/QAGenerators
 CMD [ "python","-u", "/usr/src/app/run.py" ]
-
